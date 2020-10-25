@@ -1,10 +1,12 @@
 # Tugas-3-Jarkom
 
 Kelompok __
+
 Anggota:
-Darian Texanditama ()
-Faza Aryoga ()
-Yoga Pratama ()
+
+- Darian Texanditama (1806205275)
+- Faza Aryoga ()
+- Yoga Pratama ()
 
 ## Cara Pemakaian
 ### Persiapan
