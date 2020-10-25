@@ -1,12 +1,12 @@
 # Tugas-3-Jarkom
 
-Kelompok __
+Kelompok I2
 
 Anggota:
 
 - Darian Texanditama (1806205275)
-- Faza Aryoga ()
-- Yoga Pratama ()
+- Faza Aryoga (1806173525)
+- Ahmad Haulian Yoga Pratama ()
 
 ## Cara Pemakaian
 ### Persiapan
